@@ -67,14 +67,35 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="760" height="541" alt="image" src="https://github.com/user-attachments/assets/45886930-10fb-4e1a-a2f7-63abcccda276" />
 
+"Data_To_Transform.csv"
 
+<img width="947" height="598" alt="image" src="https://github.com/user-attachments/assets/0cbbdd2d-a570-4cec-b443-b29ebcafdb9c" />
 
+<img width="465" height="166" alt="image" src="https://github.com/user-attachments/assets/71dbda32-8051-4273-a7bd-41e999feb3a9" />
 
+<img width="698" height="331" alt="image" src="https://github.com/user-attachments/assets/621858d8-89ee-4208-a845-037cdd9fec34" />
 
+<img width="709" height="347" alt="image" src="https://github.com/user-attachments/assets/137b395f-bcbf-4642-a6e5-509bdcef7bcd" />
 
+<img width="704" height="327" alt="image" src="https://github.com/user-attachments/assets/9a850ccd-f36f-4bd7-bd61-1d126293c5c4" />
 
+<img width="723" height="331" alt="image" src="https://github.com/user-attachments/assets/21e2a1be-c217-4dfe-8a2a-47a332346bb0" />
 
+<img width="1175" height="516" alt="image" src="https://github.com/user-attachments/assets/1b005bea-8af8-4235-9d0c-6f59f21e717e" />
 
+<img width="517" height="222" alt="image" src="https://github.com/user-attachments/assets/8dca28dc-758c-4731-a965-88af9c8bea52" />
+
+<img width="1101" height="250" alt="image" src="https://github.com/user-attachments/assets/484ed224-b6f7-4e3b-a858-37b39cd55d33" />
+
+<img width="1359" height="610" alt="image" src="https://github.com/user-attachments/assets/90bade9f-2ec0-459b-8826-eff0b55a525a" />
+
+<img width="1083" height="699" alt="image" src="https://github.com/user-attachments/assets/04b30a88-b75a-4115-a4aa-bb40159ac735" />
+
+<img width="1064" height="642" alt="image" src="https://github.com/user-attachments/assets/37a136b8-f0a7-430f-a977-0f69b2061ff7" />
+
+<img width="1116" height="703" alt="image" src="https://github.com/user-attachments/assets/2a445247-8ff3-4602-ad5c-434b129032d6" />
+
+<img width="936" height="638" alt="image" src="https://github.com/user-attachments/assets/f16f62e7-b4bb-4668-8f47-08c229ada8b5" />
 
 
 
